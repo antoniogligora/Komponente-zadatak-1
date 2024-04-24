@@ -1,5 +1,5 @@
 export default function Funkcijska(props) {
-  const { Prezime } = props;
+  const { prezime } = props;
 
-  return Prezime;
+  return <>{prezime}</>;
 }

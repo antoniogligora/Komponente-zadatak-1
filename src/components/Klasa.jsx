@@ -2,8 +2,8 @@ import React from "react";
 
 export default class Klasna extends React.Component {
   render() {
-    const { Ime } = this.props;
+    const { ime } = this.props;
 
-    return <p>{Ime}</p>;
+    return <p>{ime}</p>;
   }
 }

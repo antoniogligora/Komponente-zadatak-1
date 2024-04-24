@@ -5,8 +5,8 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <Klasna Ime="Antonio"></Klasna>
-      <Funkcijska Prezime="Gligora"></Funkcijska>
+      <Klasna ime="Antonio"></Klasna>
+      <Funkcijska prezime="Gligora"></Funkcijska>
     </div>
   );
 }
